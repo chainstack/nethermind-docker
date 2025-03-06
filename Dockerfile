@@ -1,4 +1,4 @@
-FROM nethermind/nethermind:1.31.3
+FROM nethermind/nethermind:1.31.4
 
 USER root
 RUN apt-get update
